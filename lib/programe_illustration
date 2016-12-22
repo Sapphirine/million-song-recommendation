@@ -1,0 +1,10 @@
+clustering.py: for spark parse data do clustering 
+details_corr.py: generate a features' corrlelation matrix
+get_details.py: get statistical information for songs
+get_tranformed.py: get PCA reduced data for further work
+pca.py: Condunct Principle Component Analysis
+pitch_info.py: Get statistics for songs pictches
+read_data.py: Get all the song information
+recommend.py: a demo for song recommendation
+songs_anlysis_full.py: get statistical information for all the features 
+word_count.py: cound word frenquency and weight for each cluster
